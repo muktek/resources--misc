@@ -13,18 +13,21 @@
 
 #### JS Intermediate
 
-  - *[You Don't Know JS: this & Object Prototypes](#)*
-  Kyle Simpson
+- *[You Don't Know JS: this & Object Prototypes](#)*
 
-  - *[You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)*
-  Kyle Simpson
+Kyle Simpson
 
-  - *[The JavaScript Way](https://github.com/bpesquet/thejsway)*
-  Baptiste Pesquet
+- *[You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)*
+
+Kyle Simpson
+
+- *[The JavaScript Way](https://github.com/bpesquet/thejsway)*
+
+Baptiste Pesquet
 
 
 #### JS Advanced
-- *[You Don't Know JS: ES6 & Beyond](#)*
+- *[You Don't Know JS: ES6 & Beyond](- You Don't Know JS: ES6 & Beyond)*
   Kyle Simpson
 
 
