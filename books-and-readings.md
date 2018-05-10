@@ -13,37 +13,27 @@
 
 #### JS Intermediate
 
-- *[You Don't Know JS: this & Object Prototypes](#)*
+- *[You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)*, Kyle Simpson
 
-Kyle Simpson
+- *[You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)*, Kyle Simpson
 
-- *[You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)*
-
-Kyle Simpson
-
-- *[The JavaScript Way](https://github.com/bpesquet/thejsway)*
-
-Baptiste Pesquet
+- *[The JavaScript Way](https://github.com/bpesquet/thejsway)*, Baptiste Pesquet
 
 
 #### JS Advanced
-- *[You Don't Know JS: ES6 & Beyond](- You Don't Know JS: ES6 & Beyond)*
-  Kyle Simpson
+- *[You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)*, Kyle Simpson
 
 
 #### JS DOM
 
-- *[DOM Enlightenment](https://doc.lagout.org/programmation/JavaScript/DOM%20Enlightenment_%20Exploring%20JavaScript%20and%20the%20Modern%20DOM%20%5BLindley%202013-03-03%5D.pdf)*
-  Cody Lindley
+- *[DOM Enlightenment](https://doc.lagout.org/programmation/JavaScript/DOM%20Enlightenment_%20Exploring%20JavaScript%20and%20the%20Modern%20DOM%20%5BLindley%202013-03-03%5D.pdf)*, Cody Lindley
 
 
 #### React
 
-- *[Learning React](http://www.r-5.org/files/books/computers/languages/escss/react/Alex_Banks_and_Eve_Porcello-Learning_React-EN.pdf)*
-  Alex Banks and Eve Porcello
+- *[Learning React](http://www.r-5.org/files/books/computers/languages/escss/react/Alex_Banks_and_Eve_Porcello-Learning_React-EN.pdf)*, Alex Banks and Eve Porcello
 
 
 #### JS en español
 
-- *[Javascript Inspirate](https://leanpub.com/javascript-inspirate)*
-  Ulises Gascón González
+- *[Javascript Inspirate](https://leanpub.com/javascript-inspirate)*, Ulises Gascón González
